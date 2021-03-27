@@ -1,3 +1,5 @@
+using System;
+
   public static int CountSheeps(bool[] sheeps)
   {  
     int count = 0;
